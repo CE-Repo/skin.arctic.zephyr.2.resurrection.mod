@@ -29,7 +29,7 @@ msgstr "控件"
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31002"
 msgid "Hub node"
-msgstr "节点"
+msgstr "中心节点"
 
 #: Weather
 msgctxt "#31003"
@@ -64,12 +64,12 @@ msgstr "安装天气背景图"
 #: /1080i/SkinSettings.xml
 msgctxt "#31009"
 msgid "Replace submenu with hub"
-msgstr "用菜单替换子菜单"
+msgstr "用中心菜单替换子菜单"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31010"
 msgid "Widget"
-msgstr "小组件"
+msgstr "小部件"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31011"
@@ -159,7 +159,7 @@ msgstr "自定义电源菜单"
 #: /1080i/SkinSettings.xml
 msgctxt "#31028"
 msgid "Reset skin settings to defaults (WARNING: This will reset your home menu to skin defaults)"
-msgstr "重置默认皮肤设置（警告：这将会重置主界面菜单至皮肤默认设置）"
+msgstr "重置默认皮肤设置（警告：这将会重置主页菜单至皮肤默认设置）"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31029"
@@ -209,12 +209,12 @@ msgstr "下载字幕"
 #: /1080i/Includes_Labels.xml
 msgctxt "#31038"
 msgid "Submenu hub widget"
-msgstr "子菜单分类中心小组件"
+msgstr "子菜单中心小部件"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31039"
 msgid "Background widget"
-msgstr "背景小组件"
+msgstr "背景小部件"
 
 #: /1080i/Custom_1117_EnableViews.xml
 msgctxt "#31040"
@@ -364,7 +364,7 @@ msgstr "管理"
 #: /1080i/Includes_Labels.xml
 msgctxt "#31070"
 msgid "This category contains settings to customise home screen shortcuts$COMMA widgets and layout."
-msgstr "此类别包含主屏幕快捷方式$COMMA 小组件和布局的自定义设置。"
+msgstr "此类别包含主屏幕快捷方式$COMMA 小部件和布局的自定义设置。"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31071"
@@ -499,12 +499,12 @@ msgstr "结束于"
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31098"
 msgid "Choose widget"
-msgstr "选择小组件"
+msgstr "选择小部件"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31099"
 msgid "Widgets"
-msgstr "小组件"
+msgstr "小部件"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31100"
@@ -529,7 +529,7 @@ msgstr "已用内存"
 
 msgctxt "#31105"
 msgid "Spotlight"
-msgstr "精选推荐"
+msgstr "聚光灯"
 
 msgctxt "#31106"
 msgid "Ends: "
@@ -543,11 +543,11 @@ msgstr "项目限制"
 #: /1080i/SkinSettings.xml
 msgctxt "#31108"
 msgid "Minimal busy loader"
-msgstr "简约加载指示器"
+msgstr "简约忙碌指示器"
 
 msgctxt "#31109"
 msgid "Customise home menu"
-msgstr "自定义主界面菜单"
+msgstr "自定义主页菜单"
 
 msgctxt "#31110"
 msgid "Background"
@@ -564,7 +564,7 @@ msgstr "子菜单"
 #: /1080i/SkinSettings.xml
 msgctxt "#31113"
 msgid "Global widget"
-msgstr "全局小组件"
+msgstr "全局小部件"
 
 msgctxt "#31114"
 msgid "Now Playing"
@@ -603,32 +603,32 @@ msgstr "背景图"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31122"
-msgid "12 seconds"
+msgid "12 秒之前"
 msgstr "12秒"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31123"
-msgid "15 seconds"
+msgid "15 秒之前"
 msgstr "15 秒"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31124"
-msgid "20 seconds"
+msgid "20 秒之前"
 msgstr "20 秒"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31125"
-msgid "30 seconds"
+msgid "30 秒之前"
 msgstr "30 秒"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31126"
-msgid "60 seconds"
+msgid "60 秒之前"
 msgstr "60 秒"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31127"
-msgid "10 minutes"
+msgid "10 分钟之前"
 msgstr "10 分钟"
 
 #: /1080i/SkinSettings.xml
@@ -689,7 +689,7 @@ msgstr "特别收录与附加内容"
 #: /1080i/SkinSettings.xml
 msgctxt "#31139"
 msgid "Layout"
-msgstr "小组件和布局"
+msgstr "小部件和布局"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31140"
@@ -738,11 +738,11 @@ msgstr "版块名称"
 #: /1080i/SkinSettings.xml
 msgctxt "#31149"
 msgid "Clock and weather in all windows (except home)"
-msgstr "时钟和天气（主界面除外）"
+msgstr "时钟和天气（主页除外）"
 
 msgctxt "#31150"
 msgid "Home background image"
-msgstr "主界面背景图"
+msgstr "主页背景图"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31151"
@@ -841,7 +841,7 @@ msgstr "编辑自定义搜索列表"
 #: /1080i/SkinSettings.xml
 msgctxt "#31170"
 msgid "Clearlogo"
-msgstr "透明徽标"
+msgstr "透明标志"
 
 #: /1080i/Includes_View_52_Showcase.xml
 msgctxt "#31171"
@@ -877,7 +877,7 @@ msgstr "确定要删除设置快捷方式吗？[CR]在删除此快捷方式之�
 #: /1080i/DialogPVRChannelsOSD.xml
 msgctxt "#31178"
 msgid "Up Next"
-msgstr "下个播放"
+msgstr "下一个"
 
 #: /1080i/Includes_Home.xml
 msgctxt "#31179"
@@ -896,12 +896,12 @@ msgstr "选择图标"
 #: /shortcuts/overrides.xml
 msgctxt "#31182"
 msgid "Additional Widgets"
-msgstr "附加小组件"
+msgstr "附加小部件"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31183"
 msgid "Default Widgets"
-msgstr "默认小组件"
+msgstr "默认小部件"
 
 #: /1080i/DialogPVRChannelsOSD.xml
 msgctxt "#31184"
@@ -1107,7 +1107,7 @@ msgstr "标签"
 
 msgctxt "#31269"
 msgid "Fallback widget"
-msgstr "备用小组件"
+msgstr "备用小部件"
 
 msgctxt "#31270"
 msgid "Video / Music"
@@ -1451,7 +1451,7 @@ msgstr "加载中"
 #: /shortcuts/overrides.xml
 msgctxt "#31429"
 msgid "Submenu Hub"
-msgstr "子菜单分类中心"
+msgstr "子菜单中心"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31430"
@@ -1466,7 +1466,7 @@ msgstr "小横向背景墙"
 #: /1080i/Custom_1138_Search.xml
 msgctxt "#31432"
 msgid "Music Videos by Artist Named"
-msgstr "按艺术家名称搜索音乐视频"
+msgstr "按艺术家名称搜索MV"
 
 #: /1080i/script-skin_helper_service-ColorPicker.xml
 msgctxt "#31433"
@@ -1496,7 +1496,7 @@ msgstr "曲目来自"
 #: /1080i/SkinSettings.xml
 msgctxt "#31438"
 msgid "Use higher contrast text for unselected widgets"
-msgstr "未选小组件使用高对比度文本"
+msgstr "未选小部件使用高对比度文本"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31439"
@@ -1509,7 +1509,7 @@ msgstr "[COLOR FFFF4081]$INFO[Window.Property(remaining)][/COLOR]秒后继续观
 
 msgctxt "#30036"
 msgid "Up next in [COLOR FFFF4081]$INFO[Window.Property(remaining)][/COLOR] seconds"
-msgstr "[COLOR FFFF4081]$INFO[Window.Property(remaining)][/COLOR]秒后播放下个"
+msgstr "[COLOR FFFF4081]$INFO[Window.Property(remaining)][/COLOR]秒后播放下一项"
 
 msgctxt "#30037"
 msgid "Next episode in [COLOR FFFF4081]$INFO[Window.Property(remaining)][/COLOR] seconds"
@@ -1556,7 +1556,7 @@ msgstr "调试"
 #: /1080i/SkinSettings.xml
 msgctxt "#30045"
 msgid "Home layout"
-msgstr "主界面布局"
+msgstr "主页布局"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#30046"
@@ -1571,12 +1571,12 @@ msgstr "角落图标"
 #: /1080i/SkinSettings.xml
 msgctxt "#30048"
 msgid "Widget movement"
-msgstr "小组件动效"
+msgstr "小部件动效"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#30049"
 msgid "Auto-scroll single widgets"
-msgstr "自动滚动单小组件"
+msgstr "自动滚动单小部件"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#30050"
@@ -1586,12 +1586,12 @@ msgstr "其他"
 #: /1080i/Includes_Labels.xml
 msgctxt "#30051"
 msgid "Vertical menu | Multiple widgets"
-msgstr "垂直菜单 | 多小组件"
+msgstr "垂直菜单 | 多小部件"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#30052"
 msgid "Horizontal menu | Multiple widgets"
-msgstr "水平菜单 | 多小组件"
+msgstr "水平菜单 | 多小部件"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#30053"
@@ -1641,7 +1641,7 @@ msgstr "基础"
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#30062"
 msgid "Customize Widgets"
-msgstr "自定义小组件"
+msgstr "自定义小部件"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#30063"
@@ -1661,7 +1661,7 @@ msgstr "5 秒"
 #: /1080i/SkinSettings.xml
 msgctxt "#30066"
 msgid "Choose between focus border sizes"
-msgstr "选择聚焦边框尺寸"
+msgstr "选择焦点边框尺寸"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#30067"
@@ -1721,12 +1721,12 @@ msgstr "皮肤初始化完成"
 #: /1080i/Includes_Labels.xml
 msgctxt "#30079"
 msgid "Modern | Multiple widgets"
-msgstr "现代风格 | 多小组件"
+msgstr "现代风格 | 多小部件"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#30080"
 msgid "Modern (dark) | Multiple widgets"
-msgstr "现代深色 | 多小组件"
+msgstr "现代深色 | 多小部件"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#30081"
@@ -1826,7 +1826,7 @@ msgstr "禁用启动画面"
 #: /1080i/SkinSettings.xml
 msgctxt "#30101"
 msgid "Flix View | Multiple widgets"
-msgstr "Flix 视图 | 多小组件"
+msgstr "Flix 视图 | 多小部件"
 
 #: /1080i/Includes_Info.xml
 msgctxt "#30102"
@@ -2072,7 +2072,7 @@ msgstr "时钟下方显示日期"
 #: /1080i/SkinSettings.xml
 msgctxt "#31478"
 msgid "Hide match info in widgets"
-msgstr "隐藏小组件中的匹配信息"
+msgstr "隐藏小部件中的匹配信息"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31479"
@@ -2087,7 +2087,7 @@ msgstr "列表"
 #: /1080i/SkinSettings.xml
 msgctxt "#31481"
 msgid "Hide menu when focus is on widgets"
-msgstr "聚焦小组件时隐藏菜单"
+msgstr "聚焦小部件时隐藏菜单"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31482"
@@ -2117,7 +2117,7 @@ msgstr "文本"
 #: /1080i/SkinSettings.xml
 msgctxt "#31487"
 msgid "Clearlogo"
-msgstr "透明徽标"
+msgstr "透明标志"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31488"
@@ -2187,7 +2187,7 @@ msgstr "隐藏视频屏显中的 CD 旋转"
 #: /1080i/SkinSettings.xml
 msgctxt "#31501"
 msgid "Use TMDBHelper to crop clearlogo"
-msgstr "使用 TMDBHelper 裁剪透明徽标"
+msgstr "使用 TMDBHelper 裁剪透明标志"
 
 msgctxt "#31502"
 msgid "Playback Speed"
@@ -2232,7 +2232,7 @@ msgstr "隐藏页眉"
 #: /1080i/SkinSettings.xml
 msgctxt "#31510"
 msgid "Clock and weather in home window"
-msgstr "主界面窗口中的时钟和天气"
+msgstr "主页窗口中的时钟和天气"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31511"
@@ -2302,4 +2302,4 @@ msgstr "自动滚动"
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31524"
 msgid "Show \"more...\" folder in widgets"
-msgstr "在小组件中显示“更多...”文件夹"
+msgstr "在小部件中显示「更多...」文件夹"
